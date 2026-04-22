@@ -1,14 +1,14 @@
-\# 📊 Análise Preditiva de Churn — Plataforma de Streaming
+# 📊 Análise Preditiva de Churn — Plataforma de Streaming
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.9+-blue)
+[Python](https://img.shields.io/badge/Python-3.9+-blue)
 
-!\[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
+[scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)
 
-!\[Status](https://img.shields.io/badge/Status-Concluído-green)
+[Status](https://img.shields.io/badge/Status-Concluído-green)
 
-!\[License](https://img.shields.io/badge/License-MIT-yellow)
+[License](https://img.shields.io/badge/License-MIT-yellow)
 
 
 
